@@ -1528,7 +1528,7 @@
         Recently used languages
       </h3>
                 <small>
-            estimation from 0 edited files from 0 commits over last 6 days
+            estimation from 0 edited files from 0 commits over last 7 days
           </small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
@@ -1851,7 +1851,7 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</span>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 27/08/2021, 12:05 (timezone Asia/Tokyo) with lowlighter/metrics@3.13.0</span>
+                <span>Last updated 27/08/2021, 13:05 (timezone Asia/Tokyo) with lowlighter/metrics@3.13.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
