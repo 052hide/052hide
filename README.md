@@ -1,8 +1,6 @@
-![Metrics](https://github.com/052hide/052hide/blob/main/github-metrics.svg)
+# 052hide
 
-## articles
-
-### zenn
+## Articles
 
 - [デザイナーに捧げるDefensive CSS](https://zenn.dev/funteractive/articles/designer_defensivecss)
 - [input[type="number"]をやめた話](https://zenn.dev/funteractive/articles/component-input-number)
@@ -12,3 +10,7 @@
 - [CSS Container Queriesによるレスポンシブデザイン実装](https://zenn.dev/funteractive/articles/css-container-queries)
 - [Optimistic Update (楽観的更新)でストレスのないUXを実現する](https://zenn.dev/funteractive/articles/optimistic-update)
 - [React.FCやめました](https://zenn.dev/funteractive/articles/quit-react-fc)
+
+## Metrics
+
+![Metrics](https://github.com/052hide/052hide/blob/main/github-metrics.svg)
