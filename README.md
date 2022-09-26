@@ -4,6 +4,7 @@
 
 - [デザイナーに捧げるDefensive CSS](https://zenn.dev/funteractive/articles/designer_defensivecss)
 - [input[type="number"]をやめた話](https://zenn.dev/funteractive/articles/component-input-number)
+- [ボタンコンポーネントのpropにwidthはいらない](https://zenn.dev/funteractive/articles/button-width)
 - [[CSS] gapって使っていいの？](https://zenn.dev/funteractive/articles/should-we-use-gap)
 - [React Hooksで小さいサイズのスマホへ対応する](https://zenn.dev/funteractive/articles/use-viewport)
 - [React.FCやめました](https://zenn.dev/funteractive/articles/quit-react-fc)
@@ -14,7 +15,6 @@
 - [[CSS] gapって使っていいの？](https://zenn.dev/funteractive/articles/should-we-use-gap)
 - [framer-motionでふわっと出現するコンポーネントを実装する](https://zenn.dev/funteractive/articles/in-view-transition)
 - [OpenAPIとMSWを使用しAPIレスポンスに対するStorybookを作成する](https://zenn.dev/funteractive/articles/storybook-msw-oas)
-- [ボタンコンポーネントのpropにwidthはいらない](https://zenn.dev/funteractive/articles/button-width)
 
 ## Metrics
 
