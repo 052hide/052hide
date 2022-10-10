@@ -15,6 +15,7 @@
 - [[CSS] gapって使っていいの？](https://zenn.dev/funteractive/articles/should-we-use-gap)
 - [framer-motionでふわっと出現するコンポーネントを実装する](https://zenn.dev/funteractive/articles/in-view-transition)
 - [OpenAPIとMSWを使用しAPIレスポンスに対するStorybookを作成する](https://zenn.dev/funteractive/articles/storybook-msw-oas)
+- [Cloudflare PagesでSPAのOGP対応をする](https://zenn.dev/funteractive/articles/cloudflare-pages-functions_ogp)
 
 ## Metrics
 
