@@ -2,7 +2,7 @@
 
 ## Articles
 
-(Zenn)[https://zenn.dev/052hide]
+[Zenn](https://zenn.dev/052hide)
 
 ## Metrics
 
